@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Defines\ player\ playing\ the\ game.\r\n\r\n\ @author\ (Pooja\ Sinha)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=newName\ newGoals
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\ -\ non\ default\r\n
+comment3.params=i\ usedName\ teamList
+comment3.target=void\ checkPlayerName(int,\ java.lang.String,\ Team[])
+comment3.text=\r\n\ checks\ name\ of\ player\ is\ valid\ or\ not\r\n
+comment4.params=
+comment4.target=int\ getGoals()
+comment4.text=\r\n\ getter\ for\ goal\r\n
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment5.text=\r\n\ getter\ for\ name\r\n
+comment6.params=newGoals
+comment6.target=void\ setGoals(int)
+comment6.text=\r\n\ setter\ for\ goal\r\n
+comment7.params=newName
+comment7.target=void\ setName(java.lang.String)
+comment7.text=\r\n\ setter\ for\ name\r\n
+numComments=8

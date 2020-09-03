@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RandomGoalsGenerator
+comment0.text=\r\n\ generates\ random\ class\r\n\r\n\ @author\ (Pooja)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=RandomGoalsGenerator()
+comment1.text=\r\n\ default\ constructor\r\n
+comment2.params=minimum\ maximum
+comment2.target=RandomGoalsGenerator(double,\ double)
+comment2.text=\r\n\ non\ default\ constructor\r\n
+comment3.params=
+comment3.target=double\ getMin()
+comment3.text=\r\n\ getter\ fo\ min\r\n
+comment4.params=
+comment4.target=double\ getMax()
+comment4.text=\r\n\ getter\ for\ max\r\n
+comment5.params=
+comment5.target=double\ randomNumber()
+comment5.text=\r\n\ generates\ random\ number\r\n
+comment6.params=newMin
+comment6.target=void\ setMin(double)
+comment6.text=\r\n\ setter\ for\ min\r\n
+comment7.params=newMax
+comment7.target=void\ setMax(double)
+comment7.text=\r\n\ setter\ for\ max\r\n
+numComments=8
