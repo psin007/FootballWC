@@ -30,7 +30,7 @@ The program then prompts the user for the names of two players in each team who 
 scorers. If the name entered is invalid then the user is prompted to re-enter. If the name re-entered
 is invalid then a default value is allocated, e.g. player-1-Ghana
 The system will then offer the user the following menu options and you must display a text based
-menu that uses the Scanner class to obtain input from the keyboard:
+menu that uses the Scanner class to obtain input from the keyboard:<br/>
 A. Play Preliminary Stage
 B. Play Final
 C. Display Teams
@@ -43,25 +43,20 @@ If the user chooses option ‘B’ the Final will be played between the top team
 stage, as previously described. If option ‘B’ is chosen but the Preliminary stage has not been
 played an error message will be displayed. If the final ends in a draw then a penalty shoot-out is
 played.
-If the user chooses option ‘C’ the record of each team is displayed. For example:
- Played Won Lost Drawn Goals Points Fair Play Score
-Australia 6 4 2 0 14 12 3
-China 6 3 2 1 10 10 0
-Ghana 6 3 2 1 9 10 0
-Spain 6 2 4 0 6 6 4
+If the user chooses option ‘C’ the record of each team is displayed in a tabular format with columns as Played, Won, Lost, Drawn, Goals, Points, Fair, Play Score and playing teams will be on rows such as Australia, China, Ghana, Spain etc
+<br/>
 If the user chooses option ‘D’ the players are listed with their number of goals scored. The list
-does not need to be sorted in any order. For example:
+does not need to be sorted in any order. For example:<br/>
 Cahill (Australia) - 8
 Rogic (Australia) - 6
 Gao (China) - 7
 Yu (China) - 3
 ………..
 ……….
+<br/>
 If the user chooses option ‘E’ the name of the Football World Cup champion team, the Golden
-Boot Award player, and the Fair Play Award team will be displayed to screen. For example:
-Football World Cup Winner: Australia
-Golden Boot Award: Ronaldo from Spain
-Fair Play Award: Ghana and China
+Boot Award player, and the Fair Play Award team will be displayed to screen.
+<br/>
 Note that there can be multiple players that win the Golden Boot Award and there can be multiple
 teams that win the Fair Play Award.
 After menu item A to E, the menu is re-displayed on the screen.
